@@ -1,0 +1,3 @@
+/home/xuhui/Codes/jetpack-vpi-demo/cpp/build/CMakeFiles/rebuild_cache.dir
+/home/xuhui/Codes/jetpack-vpi-demo/cpp/build/CMakeFiles/vpi_demo.dir
+/home/xuhui/Codes/jetpack-vpi-demo/cpp/build/CMakeFiles/edit_cache.dir
